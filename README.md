@@ -1,4 +1,4 @@
-# Public_transport_analytics
+# Public transport passengers on board analytics
 This project is a simple example of data analytics manipulation in python for data regarding the number of passengers on board of buses in the city of *Cagliari*.
 
 ### Example results data analysed
