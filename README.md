@@ -4,4 +4,4 @@ This project is a simple example of data analytics manipulation in python for da
 ### Example results data analysed
 
 
-<img width="433" alt="Screenshot 2022-07-21 at 11 02 00" src="https://user-images.githubusercontent.com/101090050/180163673-037f53b0-8cd0-4111-9614-7bdbc7c78151.png">
+![exampleCTMPython](https://user-images.githubusercontent.com/101090050/180199732-f4b42b38-7060-41e9-a833-7543b9b12e2a.PNG)
